@@ -1,11 +1,14 @@
-body { font-family: 'Oxygen', sans-serif; font-size: 16px; line-height: 26px; max-width: 24rem; margin: 0px auto; padding: 0 0.5rem; color: #404040;}
+body { font-family: 'Oxygen', sans-serif; font-size: 16px; line-height: 26px; max-width: 30rem; margin: 0px auto; padding: 0 0.5rem; color: #404040; background: #e0e0e0;}
 p { margin-top: 40px}
 .fa { position: absolute; left: -4rem; color: #18c953;}
 .fa-stack {position: absolute; }
 .logo { display: block; position: relative; left: 0; margin-top:30px;}
+img.logo { max-width: 60%; width: 60%; }
+.cred { font-size: 70%; }
 h2 {margin-bottom: 0}
 h2 i.fa { margin-bottom: 20px; }
 .cred { font-size: 70%; }
-.cred img { height: 2em; position: relative; width: auto; top: .7em; }
+.cred img { margin-left: 0.4em; height: 2em; position: relative; width: auto; top: .7em; }
 .container { position: relative; margin-left: 5rem; margin-right: 0.5rem;}
 img { max-width: 14em; width: 90%; } 
+ul { padding-left: 1em; }
