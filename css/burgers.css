@@ -13,5 +13,5 @@ h2 i.fa { margin-bottom: 20px; }
 .container { position: relative; margin-left: 5rem; margin-right: 0.5rem;}
 img { max-width: 14em; width: 90%; } 
 ul { padding-left: 1em; }
-form { border: 1px #000 solid; padding: 10%; width: 100%; max-width: 90%; margin-left: -10%; margin-top: 3rem; margin-bottom: 3rem; font-size: 80%; line-height: 130%;}
+form { border: 1px #000 solid; padding: 10%; width: 100%; max-width: 90%; margin-left: -10%; margin-top: 3rem; margin-bottom: 3rem; font-size: 80%; line-height: 130%; text-align: center;}
 input { max-width: 100%; }
